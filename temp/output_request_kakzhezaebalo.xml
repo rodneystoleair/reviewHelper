@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Vegetation and climate changes around the Lama Lake, Taymyr Peninsula, Russia during the Late Pleistocene and Holocene</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Andreev</surname></persName>
+							<email>aandreev@awi-potsdam.de</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Alfred Wegener Institute for Polar-and Marine Research</orgName>
+								<address>
+									<addrLine>Forschungsstelle Potsdam Telegrafenberg A43</addrLine>
+									<postCode>D-14473</postCode>
+									<settlement>Potsdam</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Tarasov</surname></persName>
+							<email>paveltarasov@hotmail.com</email>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Geography</orgName>
+								<orgName type="institution">Moscow State University</orgName>
+								<address>
+									<addrLine>Vorobievy Gory</addrLine>
+									<postCode>119899</postCode>
+									<settlement>Moscow</settlement>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Klimanov</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Institute of Geography</orgName>
+								<orgName type="institution">RAS</orgName>
+								<address>
+									<addrLine>Staromonetny 29</addrLine>
+									<postCode>109017</postCode>
+									<settlement>Moscow</settlement>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Melles</surname></persName>
+							<email>melles@rz.uni-leipzig.de</email>
+							<affiliation key="aff3">
+								<orgName type="department" key="dep1">Faculty for Physics and Earth Sciences</orgName>
+								<orgName type="department" key="dep2">Institute for Geophysics and Geology</orgName>
+								<orgName type="institution">Leipzig University</orgName>
+								<address>
+									<addrLine>Talstrasse 35</addrLine>
+									<postCode>D-04103</postCode>
+									<settlement>Leipzig</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">O</forename><forename type="middle">M</forename><surname>Lisitsyna</surname></persName>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Geology</orgName>
+								<orgName type="institution">Moscow State University</orgName>
+								<address>
+									<addrLine>Vorobievy Gory</addrLine>
+									<postCode>119899</postCode>
+									<settlement>Moscow</settlement>
+									<country key="RU">Russia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">H.-W</forename><surname>Hubberten</surname></persName>
+							<email>hubbert@awi-potsdam.de</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Alfred Wegener Institute for Polar-and Marine Research</orgName>
+								<address>
+									<addrLine>Forschungsstelle Potsdam Telegrafenberg A43</addrLine>
+									<postCode>D-14473</postCode>
+									<settlement>Potsdam</settlement>
+									<country key="DE">Germany</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Vegetation and climate changes around the Lama Lake, Taymyr Peninsula, Russia during the Late Pleistocene and Holocene</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">20475CD08144861176D6FFCA462A2FDA</idno>
+					<idno type="DOI">10.1016/j.quaint.2004.01.032</idno>
+					<note type="submission">Received 4 January 2004; accepted 4 January 2004</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2024-12-29T17:46+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+				<p>A continuous lacustrine sequence from the western part of Lama Lake (69 32 0 N, 90 12 0 E), complemented by a peat sequence from the lake catchment provides the first detailed environmental reconstruction for the Late Glacial and Holocene on the Taymyr Peninsula. Scarce steppe-like communities with Artemisia, Poaceae, and Cyperaceae dominated during the Late Glacial. Tundra-like communities with Betula nana, Dryas, and Salix grew on more mesic sites. There are distinct climatic signals, which may be correlated with the B^lling and Aller^d warming and Middle and Younger Dryas cooling. The Late Glacial/Preboreal transition, at about 10,000 14 C yr BP, was characterized by changes from predominantly open herb communities to shrub tundra ones. Larch forest might have been established as early as 9700-9600 14 C yr BP, whilst shrub alder came to the area ca 9500-9400 14 C yr BP, and spruce did not reach area before ca 9200 14 C yr BP. Spruce-larch forests with shrub alder and tree birch dominated the vegetation around the Lama Lake from ca 9000 14 C yr BP. Dwarf birch communities were also broadly distributed. The role of spruce in the forest gradually decreased after 4500 14 C yr BP. The vegetation cover in the Lama Lake area became similar to the modern larch-spruce forest ca 2500 14 C yr BP. A pollen-based biome reconstruction supports a quantitative interpretation of the pollen spectra. Climate reconstructions obtained with information-statistical and plan-functional-type methods show very similar trends in reconstructed July temperature since ca 12,300 14 C yr BP, while precipitation anomalies are less coherent, especially during the Late Glacial-Holocene transition.</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+	</text>
+</TEI>
+

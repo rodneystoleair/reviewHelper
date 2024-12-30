@@ -1,0 +1,13 @@
+Your task is to determine the relevance of a given paper to one or more specific research questions. Instructions:
+1. Read the Title and Abstract: Carefully review the title and abstract of the paper to understand its focus, objectives, and scope.
+2. Analyze for Relevance: Evaluate whether the paper addresses any of the research questions directly, provides partial answers, or offers methods or data useful for further investigation of the questions.
+3. Determine Relevance: Decide if the paper should be included in the literature review based on its relevance to the research questions.
+Scoring Criteria:
+5 points: The title and abstract explicitly indicate that the paper addresses one or more of the research questions fully or their specific aspects.
+4 points: The title and abstract suggest that the paper likely addresses one or more of the research questions fully or their specific aspects.
+3 points: The title and abstract imply that the paper may address one or more of the research questions, but it is not certain.
+2 points: The paper is related to the topic of the research questions but is unlikely to contain relevant answers.
+1 point: The paper is unrelated to the topic of the research questions.
+Question: {research_question}
+Header: {header}
+Abstract: {abstract}

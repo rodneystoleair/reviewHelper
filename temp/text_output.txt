@@ -1,0 +1,902 @@
+                                                                                        3.2       4.9
+
+
+
+
+Article
+
+
+Modern Pollen–Vegetation
+Relationships: A View from the
+Larch Forests of Central Siberia
+
+Elena Novenko, Natalia Mazei, Anton Shatunov, Anna Chepurnaya, Ksenia Borodina, Mikhail Korets,
+Anatoly Prokushkin and Alexander V. Kirdyanov
+
+
+
+
+Special Issue
+Pollen-Based Reconstruction of Holocene Land-Cover
+Edited by
+Dr. Qiao-Yu Cui, Dr. Laurent Marquer, Dr. Anneli Poska, Dr. Furong Li and Dr. Florence Mazier
+
+
+
+
+                                                                     https://doi.org/10.3390/land13111939
+
+Article
+Modern Pollen–Vegetation Relationships: A View from the Larch
+Forests of Central Siberia
+Elena Novenko 1, * , Natalia Mazei 1,2 , Anton Shatunov 1 , Anna Chepurnaya 1,2 , Ksenia Borodina 2 ,
+Mikhail Korets 3 , Anatoly Prokushkin 1,3 and Alexander V. Kirdyanov 3,4, *
+
+                                         1   Institute of Geography Russian Academy of Science, Staromonetny Lane, 29, 119017 Moscow, Russia;
+                                             natashamazei@mail.ru (N.M.); toxavilli@yandex.ru (A.S.); a_che@bk.ru (A.C.);
+                                             prokushkin@ksc.krasn.ru (A.P.)
+                                         2   Faculty of Geography, Lomonosov Moscow State University, Leniskie Gory 1, 119991 Moscow, Russia;
+                                             karina2180@yandex.ru
+                                         3   V.N. Sukachev Institute of Forest SB RAS, Federal Research Center “Krasnoyarsk Science Center SB RAS”,
+                                             Akademogorodok 50/28, 660036 Krasnoyarsk, Russia; mik@ksc.krasn.ru
+                                         4   Department of Geography, University of Cambridge, Cambridge CB2 3EN, UK
+                                         *   Correspondence: eynovenko@igras.ru (E.N.); ak2118@cam.ac.uk (A.V.K.)
+
+                                         Abstract: Understanding how pollen assemblages represent the local and regional vegetation compo-
+                                         sition is crucial for palaeoecological research. Here, we analyze 102 surface moss/soil pollen samples
+                                         collected from four study regions located in various boreal forest vegetation types in Central Siberia.
+                                         Despite Larix being the most prevalent tree generus in the study area, the proportion of Larix pollen
+                                         can be as low as 0.6–1.5% (0.4–4.7% on average) even in localities with a high canopy density of
+                                         the species. No relationship between the quantity of Larix pollen in the spectra and the abundance
+                                         of Larix in the local vegetation was found. The dominant components of the pollen assemblages
+                                         are Betula and Alnus fruticosa. The pollen value of Picea is low (2.6–8.2% on average), with higher
+                                         proportions at sample plots where spruce is abundant in forests. Pinus is a highly prevalent pollen
+                                         species within its geographical range, comprising up to 40% of pollen assemblages. Outside of
+                                         the range, the ratio of Pinus pollen was higher in habitats with low canopy density and in treeless
+                                         ecosystems. The composition of herbaceous pollen and spores is significantly affected by the local
+Citation: Novenko, E.; Mazei, N.;
+                                         plant community, offering more comprehensive insights into past vegetation patterns.
+Shatunov, A.; Chepurnaya, A.;
+Borodina, K.; Korets, M.; Prokushkin,
+                                         Keywords: modern pollen assemblages; surface pollen sample; taiga; Pinus pollen; Picea pollen; Larix
+A.; Kirdyanov, A.V. Modern
+                                         pollen; Yenisei Siberia; Central Siberian Plateau
+Pollen–Vegetation Relationships: A
+View from the Larch Forests of
+Central Siberia. Land 2024, 13, 1939.
+https://doi.org/10.3390/
+land13111939                             1. Introduction
+
+Academic Editor: Manfred Rösch
+                                               The study of vegetation composition and related environmental conditions in the
+                                         past using palynological data is one of the most common approaches in palaeoecological
+Received: 14 October 2024                research. Understanding the modern relationships between pollen, vegetation and climate
+Revised: 9 November 2024                 is essential for exploring regional and global vegetation dynamics [1–6]. Among the earliest
+Accepted: 15 November 2024               studies of modern pollen assemblages are the attempts by Davis [7] and Andersen [8] to
+Published: 17 November 2024
+                                         calculate correction factors for the relationship between vegetation and the composition
+                                         of pollen spectra. Subsequently, a large number of papers were published on subfossil
+                                         pollen assemblages from different regions [9–26]. In recent decades, the Pollen Monitoring
+Copyright: © 2024 by the authors.
+                                         Program focused on studying pollen rain using Tauber traps has begun to develop as a
+Licensee MDPI, Basel, Switzerland.       specific area of pollen research. Much attention has been given in these papers to the deter-
+This article is an open access article   mination of pollen source area, and the potential for modelling vegetation cover at local and
+distributed under the terms and          regional scales [27–31]. The results of numerous studies based on traditional palynology
+conditions of the Creative Commons       as well as the model approach have shown that the problem with the interpretation of
+Attribution (CC BY) license (https://    pollen data, i.e., understanding the ratio of components in the pollen assemblage and the
+creativecommons.org/licenses/by/         species composition of the surrounding vegetation in each region, can be solved through a
+4.0/).                                   conjugate study of surface samples and vegetation description.
+
+
+
+Land 2024, 13, 1939. https://doi.org/10.3390/land13111939                                                      https://www.mdpi.com/journal/land
+
+Land 2024, 13, 1939                                                                                          2 of 18
+
+
+
+                           Modern pollen data sets from Siberia have been published in previous
+                      studies [13,20,32–37] and global pollen databases such as Eurasian Modern Pollen
+                      Database [38]. Compared to other Northern Hemisphere regions, studies on surface pollen
+                      assemblages are still rare for some regions such as Central Siberia. Few studies exploring
+                      the relationships between pollen assemblages and vegetation or developing pollen–climate
+                      transfer functions have been carried out on subfossil pollen spectra in northern Central
+                      Siberia [13,20,39] and its southern part [19]. The subfossil pollen spectra of forest ecosys-
+                      tems from the inner part of Central Siberia have so far been completely lacking due to the
+                      non-accessibility of these regions for research.
+                           One of the most important issues in palaeoecological research is the history of larch
+                      forests and their modern dynamics. At present, these forests occupy large areas of
+                      northern Eurasia, and during the Last Glaciation they greatly expanded their geograph-
+                      ical range in the periglacial zone [40]. Larix is generally rare in pollen assemblages
+                      due to thin exine, low pollen productivity, poor preservation and low wind transport
+                      capacity [29,30,41]. As a result, its proportion in modern and fossil pollen assemblages
+                      is usually underestimated. Therefore, new data on the composition of modern pollen
+                      spectra from larch forests and their comparison with the surrounding vegetation are of
+                      great importance for the interpretation of the results of palynological analysis.
+                           Here, we present the results of a pollen analysis of 102 moss and soil samples collected
+                      in four study regions in the permafrost zone of Central Siberia. The main objectives of this
+                      study are to assess how modern pollen spectra reflect local and regional vegetation and
+                      climatic conditions and how Larix is represented in pollen assemblages from different plant
+                      communities and environments.
+
+                      2. Regional Setting
+                           Modern pollen assemblages and vegetation descriptions were obtained from key
+                      regions (Igarka, Turukhansk, Tura and Vanavara) located in different landscape regions of
+                      Central Siberia (Figure 1) across a broad vegetation gradient from the forest–tundra ecotone
+                      (Igarka), through the northern taiga (Turukhansk and Tura) to the middle taiga vegetation
+                      zone (Vanavara).
+                           The study areas of Igarka and Turukhansk are located in the Yenisei River basin
+                      within the gently undulating moraine and plain of the Late Pleistocene glaciation [42]
+                      with an elevation range of 30–45 m a.s.l. (above sea level). The third area studied,
+                      surrounding the Tura settlement, is in the middle basin of the Lower Tunguska River.
+                      The Central Siberian Plateau in this region has an elevation range of approximately 140
+                      to 600 m a.s.l. and is formed by Triassic igneous basalt. The last study region near the
+                      Vanavara settlement occupies the southern part of the Tungusky State Nature Reserve in
+                      the middle basin of the Podkamennya Tunguska River. The topography is represented
+                      by a hilly plateau (400–500 m a.s.l.) of Palaeozoic sandstones and Triassic effusive rocks,
+                      covered with their eluvium.
+                           The climate type of the four study regions is subarctic (or subpolar) according to
+                      the Köppen–Geiger climate classification, with long, usually very cold winters and short,
+                      cool summers [45]. The mean annual air temperature and precipitation decreased toward
+                      the inner part of Central Siberian Plateau [46] (Table 1). The Igarka and Tura regions are
+                      part of the continuous permafrost zone. Turukhansk and Vanavara in the south have
+                      discontinuous permafrost with up to 50% coverage of the region [47].
+                           The area studied at Igarka belongs to the transitional zone between the forest–tundra
+                      and northern taiga vegetation. Open larch, spruce–larch and pine–larch forests formed by
+                      Larix sibirica Ledeb., Picea obovata Ledeb., Betula pendula Roth. and Pinus sibirica Du Tour
+                      alternate with treeless peat bogs, extensive areas of early successional stands, which follow
+                      clear cutting and fires.
+
+Land 2024, 13, 1939                                                                                                   3 of 18
+
+
+
+
+                            Figure 1. Location of the study region and model areas, land cover and forest classes (according
+                            to [43]). Northern limits of the main coniferous species (according to [44]).
+
+                            Table 1. Summary characteristics of the study areas.
+
+                                                                                                           Number of
+          Site        Latitude, ◦ N       Longitude, ◦ E          MAAT, ◦ C           MAP, mm
+                                                                                                          Sample Plots
+       Igarka         67.40–67.58           86.41–86.93              −8.1                 516                   23
+     Turukhansk       65.84–67.58           87.83–88.03              −6.4                 580                   19
+        Tura          64.18–64.32           99.90–100.45             −8.4                 373                   32
+      Vanavara        60.31–60.54          101.76–102.37             −4.6                 411                   28
+
+
+                                 Turukhansk had been a place of settlements for several centuries, and the forests of
+                            this area were actively in use. Thus, large areas are covered by secondary aspen–birch
+                                                                      −
+                            forests of the northern taiga vegetation subzone, which is characterized by alternating
+                                                                      −
+                            patches of deciduous, coniferous and mixed forests.
+                                                                      −
+                                                                      −
+
+                                       tt
+                                                                   tt
+
+Land 2024, 13, 1939                                                                                                  4 of 18
+
+
+
+                           The vegetation cover in Tura is dominated by northern taiga larch forests (Larix gmelinii
+                      Rupr.) that are replaced by woodlands (Alnus fruticosa Rupr., B. nana L., B tortuosa Ledeb., B.
+                      cajander Sukaczev) in the slopes of basalt plateaus [48]. The land cover around Vanavara is
+                      a mosaic of mid-taiga pine (Pinus sylvestris L.) and larch–pine forests, shrub thickets (Betula
+                      nana), mostly frozen peatlands, and dark coniferous forests (Picea obovata, Pinus sibirica,
+                      Abies sibirica Ledeb.) in river valleys.
+
+                      3. Material and Methods
+                             During the field campaigns in 2019, 2020, 2021 and 2022, pollen samples were taken
+                      from 102 sampling plots (Figure 2). A representative 10 m × 10 m square plot was used to
+                      survey the modern vegetation composition at each site, and the cover of each plant species
+                                                                                    tt or the top 2–3 cm of moss
+                      was recorded. The first centimeter of soil below the plant litter
+                           tt
+                      matt were collected for a studying of surface pollen assemblages. Each sample consists of
+                      five sub-samples, four taken near the corners of the study site and one in the center. Then,
+                      all sub-samples were combined to form a single sample.
+
+
+
+
+                      Figure 2. Location of sampling plots within the study areas. (Land cover and forest classes according
+                      to [49]).
+
+                            The diversity of the plant communities was classified into the following types: dense
+                      forests (larch, pine, birch, spruce, mixed) with a crown density >0.4, open forests with
+                      a crown density of 0.1–0.4, open woodlands with a crown density of 0.1 and peatlands,
+                      mainly treeless. In addition, we identified burnt areas as a separate type of plant community
+                      due to their specific vegetation.
+                            A total of 102 surface samples were analyzed. During the preparation for pollen anal-
+                      ysis, each sample was brought to a boil in a 10% solution of KOH, washed with distilled
+                      water through a 120-micron mesh sieve to remove large plant debris [50] and processed
+                      using a modified acetolysis procedure with propionic anhydride [51]. Hydrofluoric acid
+
+Land 2024, 13, 1939                                                                                            5 of 18
+
+
+
+                      was also used to remove silicates from samples containing mineral sediments. The pollen
+                      was identified using a Zeiss Axio Lab A1 microscope at 400 magnifications. The identi-
+                      fication was based on Reille [52], Beug [53] and the pollen collection of the Institute of
+                      Geography RAS. More than 500 terrestrial pollen grains were counted in each sample.
+                      The calculation of pollen percentages was based on the terrestrial pollen sum—arboreal
+                      pollen (AP) plus non-arboreal pollen (NAP) without aquatic plants, spores and non-pollen
+                      palynomorphs. The results of pollen analysis were plotted as pollen percentage graphs
+                      using Tilia 3.0.1. software [54]. In the pollen diagrams, the samples are grouped by type of
+                      plant community. We also identified similarities and differences between the spectra by
+                      constrained incremental sum of squares cluster analysis [55], using the CONISS application
+                      in the Tilia 2.0.2 program.
+                            Taxa occurring in at least three samples with an abundance >1% were included in
+                      the numerical analysis. To normalize biased distributions and reduce the effect of extreme
+                      values, a square root transformation of all data was applied prior to the calculations.
+                      Principal component analysis (PCA) was used to evaluate how well the pollen assemblages
+                      characterize the different vegetation types [56]. Analyses were performed using R package
+                      stats 3.6.2 [57] and package ggplot 2 3.5.1 [58] for graphical constraints.
+
+                      4. Results
+                      4.1. Tura
+                           A total of 32 surface samples were collected in the Tura area (Figure 2) from 25 forest
+                      and seven peatland sampling plots. According to our field observation, the forest plant
+                      communities are represented by larch (Larix gmelinii) and birch (Betula pubescens, B.
+                      pendula) forests with a range of canopy densities from closed forest to open woodland.
+                      The shrub layers are formed by Alnus fruticosa, B. nana, Rosa acicularis Lindl. and several
+                      species of Salix (S. lapponum L., S. reticulata L., S. rosmarinifolia L.). The coverage of
+                      dwarf shrub and grass layer ranges from 10 to 45% and includes Vaccinium uliginosum
+                      L., V. vitis-idaea L., Empetrum nigrum L., Ledum palustre L., different species of Carex and
+                      Equisetum arvense L., E. palustre L., Calamagrostis langsdorffii (Link) Trin. Sphagnum, feather
+                      mosses (Polytrichum commune Hedw., Pleurozium schreberi (Brid.) Mitt.) and lichens form
+                      the moss cover. The vegetation in the peatland is characterized by a mosaic plant cover
+                      consisting of peat plateaus and perennial frost mounds covered by Betula nana, Ledum
+                      palustre, lichens and feather mosses with a combination of frozen Sphagnum carpets with
+                      abundant dwarf shrubs and Rubus chamaemorus L. and thawed hollows occupied by
+                      diverse species of Carex and Eriophorum.
+                           The analyzed pollen assemblages are composed predominantly (from 70 to 95%) of
+                      arboreal pollen (Figure 3), which is mostly contributed by Betula, both tree and shrub birch.
+                      The maximum amount of Betula alba (59.4%) is found in the dense birch forest. In other
+                      pollen assemblages, its percentage ranges from 16 to 40%. The portion of B. nana varies in a
+                      wide range from 0.3 to 47.3% (Table 2), but in most sampling locations, it does not exceed
+                      10%. The share of Alnus fruticosa is very high and varies from 8.2 to 50.1%, with the mean
+                      value of 27.3%. A generally higher proportion of Betula alba, B. nana and Alnus fruticosa
+                      pollen is found in ecosystems with a high abundance of the species in local vegetation.
+                      Cluster analysis revealed differences in the composition of pollen assemblages in various
+                      habitats. The spectra of forest and non-forest habitats show significant variation, and the
+                      spectra of dense larch forest and open forest are also well differentiated.
+                           Although the samples come from different types of larch forest, the proportion of Larix
+                      pollen varies from 0.6 to 13.5%, with the mean 4.7%. Relatively high proportions of Larix
+                      pollen (7–10% and above) were found in both closed larch and open forests, as well as
+                      in the assemblage from the treeless burnt area. At the same time, the proportion of Larix
+                      pollen is only 1.1% in two larch forest habitats with a canopy density of 0.5.
+
+Land 2024, 13, 1939                                                                                                                         6 of 18
+
+
+
+
+                                    Figure 3. Percentage pollen diagram of surface samples from Tura area. Habitats: DL—dense larch
+                                    forests, OL—open larch forests, OB—open birch forest, Wo—open woodlands, BA—burnt area,
+                                    Pe—peatlands.
+                                                                                       ﬀ
+                                    Table 2. The proportion of the arboreal species in modern pollen assemblages from Central Siberia.
+
+                                    Tura                             Igarka                   Turukhansk                      Vanavara
+     Pollen Taxa                            Average                        Average                   Average                        Average
+                       Range *, %                        Range, %                      Range, %                       Range, %
+                                           Value **, %                    Value, %                   Value, %                       Value, %
+         Larix          0.6–13.5               4.7         0.1–5.2           1.5          0.2–0.4         0.8           0.2–3.5          0.4
+         Picea          0.2–15.9               3.5        0.9–26.6           8.2          0.2–5.9         3.2          0.2–13.4          2.6
+     Pinus sibirica     0.8–42.5               8.2       13.2–72.7          41.5        10.1–74.4        44.5           0.2–3.6          1.4
+    Pinus sylvestris    0.2–10.3               2.5         0.2–9.2           2.3         0.2–15.2         2.8          2.4–73.1         36.2
+         Abies           0.1–0.3              0.04         0.2–0.4          0.2           0.2–0.5         0.1           0.2–1.3         0.2
+      Betula alba       8.2–59.4              28.4        4.4–65.1          20.3        10.4–54.6        28.9         13.1–78.5         43.7
+      Betula nana       0.3–47.3               8.0        0.3–30.1           5.3          0.2–4.0         0.8          0.4–29.1          2.9
+    Alnus fruticosa     8.2–50.1              27.3        2.3–24.5           8.5          2.1–6.1         3.7          0.4–57.3          7.1
+                                    * Range between the pollen values of samples in which pollen was recorded. ** Average value calculated from all
+                                    samples collected in the study area.
+
+
+                                         Picea pollen are found at all sampling plots, with the exception of one location in the
+                                    swamp. The Picea pollen content ranges from 0.2 to 15.9%, but in most samples, it varies
+                                    between 0.6 and 5%, with the mean of 3.5%. On the sampling plots with spruce present in
+                                    the plant communities, its pollen content increases to 6–9%. In other samples, its proportion
+                                    does not exceed 2%. Surprisingly, the highest percentages of Picea pollen (13.1 and 15.9%)
+                                    are found in the two peatland habitats without spruce trees directly at the sampling points,
+                                    but occurring in the vicinity of the peat bog.
+                                         Pinus pollen is recorded at all sampling plots. The proportion of Pinus sylvestris ranges
+                                    from 0.2 to 10.3%; the share of P. sibirica varies from 0.8 to 42.5%. The maximum pollen
+                                    values of both pine species occur at peatlands, open woodlands or other treeless habitats.
+                                         Rare pollen grains of shrubs such as Lonicera, Sorbus, Rosa and Juniperus are present in
+                                    several samples. In the flooded birch forest, the proportion of Salix pollen rises to 33.5%; in
+                                    other samples, it varies from 0.1 to 9.9%, with the mean being 3.2%.
+                                         In the surface samples examined, pollen from thermophilic arboreal taxa transported
+                                    over long distances was identified. Tilia pollen was detected in four pollen assemblages;
+                                    Ulmus pollen was noted in one. Alnus pollen from the tree species of alder, which are
+                                    morphologically distinct from Alnus fruticosa, have been recorded in a number of habitats.
+
+Land 2024, 13, 1939                                                                                            7 of 18
+
+
+
+                            Among the non-arboreal pollen Ericaceae, Poaceae and Cyperaceae dominate. The
+                      proportion of Ericaceae ranges from 8 to 24% in the sampled areas where these dwarf
+                      shrubs are abundant in local vegetation, while in other pollen assemblages their content
+                      does not exceed 2–3%. The analysis revealed a wide variety of grass pollen (0.1–0.3%):
+                      Artemisia, Chenopodiaceae, Apiaceae, Asteraceae, Brassicaceae, Caryophyllaceae, Rosaceae,
+                      Fabaceae, Geraniaceae, Gentianaceae, Lamiaceae, Polemoniaceae, Scrophulariaceae, Va-
+                      leriana, Thalictrum, Bistorta vivipara, Sanguisorba officinalis. Pollen from plants typical for
+                      disturbed soils (Convolvulus, Rumex, Cichoriaceae) occurs in 1–2 pollen assemblages. Pollen
+                      of Onagraceae genera, apparently belonging to Chamaenerion angustifolium, was found in
+                      five sample plots. Pollen of wetland plants is presented by Rubus chamaemorus, Menyanthes
+                      trifoliata, Pedicularis sp.
+                            The sum of spores varies from 0.5 to 11% in comparison to the sum of AP + NAP. The
+                      most abundant spore taxa are Sphagnum (0.2–2.2%), Polypodiaceae (0.2–7.9%), Lycopodium
+                      annotinum (0.2–1.5%) and Equisetum (0.2–1.5%). Spores of Diphasiastrum complanatum, L.
+                      clavatum, L. pungens, Huperzia selago and Selaginella selaginoides occur sporadically. Spores
+                      of Sphagnum mosses and ferns are more abundant at sites where they occur in plant
+                      communities. In other pollen assemblages, they are represented by 1–2 spores or are absent.
+
+                      4.2. Igarka
+                           A total of 23 pollen assemblages from Igraka were analyzed (Figure 4). Seventeen
+                      sampling plots are located in forests and open woodlands formed by Larix sibirica, Larix
+                      gmelinii, Picea obovata and Betula pendula with an admixture of Pinus sibirica. The shrub
+                      layer is represented by Betula nana, Alnus fruticosa and Rosa acicularis; the dwarf-herb layer
+                      includes Vaccinium vitis-idaea, Ledum palustre, Vaccinium uliginosum, Calamagrostis lapponica
+                      (Wahlenb.) Hartm., Thalictrum sp., Equisetum sylvaticum L., Rubus arcticus L., Linnaea
+                      borealis L., Lycopodium annotinum L. and L. clavatum L.; the moss cover is formed mainly
+                      by Pleurozium schreberi (Willd. ex Brid.) Mitt. Vegetation of peatland (four sampling plots)
+                      consists of perennial frost mounds (lichen, feather mosses, Betula nana, Ledum palustre and
+                      Rubus chamaemorus) and flat, wide hollows with various species of Carex, feather mosses
+                      and thickets of Betula nana. The burnt areas (two sampling plots) are covered with Betula
+                      pendula and Alnus fruticosa with plenty of Ledum palustre, Vaccinium uliginosum, Equisetum
+                      arvense and Carex.
+
+
+
+
+                      Figure 4. Percentage pollen diagram of surface samples from Igarka area. Habitats: DL—dense
+                      larch forests, OB—open birch forest, OS—open spruce forests, OL—open larch forest, Wo—open
+                      woodlands, BA—burnt area, Pe—peatlands.
+
+                                                                       Т
+
+Land 2024, 13, 1939                                                                                             8 of 18
+
+
+
+                           Cluster analysis showed that pollen assemblages from different habitats fell into different
+                      groups, indicating the influence of local vegetation on the composition of pollen spectra.
+                           Pollen of trees and shrubs predominates in all samples (65–95%), with the main com-
+                      ponents being Pinus sibirica (13.2–72.7%) and Betula alba-type (4.4–65.1%). The percentages
+                      of Pinus and Betula are in the opposite phase to each other. Pollen of Alnus fruticosa, Picea
+                      and B. nana accounts for a crucial part in pollen assemblages. The shares of B. nana and
+                      Alnus fruticosa vary in a wide range from a few percent to 18.9% and 24.5%, respectively,
+                      but at most sampling plots, the contribution of shrubby birch is 1–3% and that of shrubby
+                      alder is 7–10%.
+                           Larch is a dominant forest-forming tree in Igarka, but in larch forests, the pollen value
+                      of Larix does not exceed 5.2% (Table 2), mainly 1–2% (Figure 4). In closed larch forests, the
+                      share of Larix in the spectra is even slightly lower than in swamps, where single trees are
+                      found on perennially frost mounds.
+                           Picea pollen is present in all the pollen assemblages studied, with percentages varying
+                      from 0.9 to 26.6%, and the mean value of 8.2% (Table 2). In sampling plots where spruce is
+                      present in the local vegetation, e.g., in an open spruce forest, its pollen content increases to
+                      about 20%; in other samples, it was 2.5–3%. However, the highest percentages of spruce
+                      pollen appear in peatlands (26.6%) and open woodlands (23.4%), where rare, suppressed
+                      spruce trees were found during field surveys.
+                           Rare Abies pollen grains are recorded from 15 samples and they were obviously
+                      transported from the southern regions.
+                           Poaceae and Cyperaceae are more abundant in the NAP. The composition of herba-
+                      ceous pollen and spores is similar to the pollen assemblages from the Tura area, except for
+                      a higher proportion of Sphagnum 0.6 to 8.5%. Lycopodium annotinum spores exceed 10% in
+                      one of the sampling plots within the peatland, but they were very abundant in the forest
+                      adjacent to the peat bog.
+
+                      4.3. Turukhansk
+                           Pollen assemblages from the Turukhansk study area are represented by 19 samples col-
+                      lected from 11 forest and eight peatland sampling plots (Figure 5). Forests are represented
+                      by secondary birch (Betula pendula) and aspen (Populus tremula L.) woodlands with an
+                      admixture of Larix gmelinii, L. sibirica and their hybrids with a combination of Picea–Betula
+                      and Picea–Betula–Larix forests. The shrub layer is formed by Salix spp., Alnus fruticosa, B.
+                      nana, Juniperus sibirica Burgsd, Sorbus sibirica Hedl. and Rosa acicularis; the dwarf-herb layer
+                      included Vaccinium vitis-idaea, Ledum palustre, Vaccinium uliginosum, Equisetum arvense, Ma-
+                      ianthemum bifolium (L.) F.W. Schmidt, Oxalis acetosella L. Lycopodium annotinum, L. clavatum;
+                      moss cover is formed mainly by Pleurozium schreberi and Polytrichum strictum. In swamped
+                      woodlands, feather mosses are replaced by Sphagnum. Ombrotrophic peatlands and reach
+                      fen (eight sampling plots), mainly unfrozen, are covered by Betula nana, various species of
+                      Salix, dwarf shrubs (Chamaedaphne calyculata (L.) Moench, Andromeda polifolia L., Vaccinium
+                      uliginosum, Vaccinium vitis-idaea) and Carex. Moss cover is dominated by Sphagnum.
+                           The main components of the pollen spectra are the most abundant forest-forming
+                      trees, Pinus sibirica (10.1–74.4%, the mean 44.5%) and Betula alba-type (10.4–54.6%, the mean
+                      28.9%), while the content of arboreal pollen varies from 40 to 97%. The percentages of Pinus
+                      and Betula are in opposite phases. Pollen assemblages from forests and peatlands can be
+                      clearly distinguished using cluster analysis (Figure 5).
+                           There are no pure larch forests in the Turukhansk area. However, larch is present as
+                      an admixture in other tree stands and, in some places, it is relatively abundant, Larix pollen
+                      is found in only six samples (1–2 grains) without any relationship with the type of forest
+                      communities. The mean value of Larix pollen content is 0.08%.
+
+Land 2024, 13, 1939                                                                                               9 of 18
+
+
+
+
+                      Figure 5. Percentage pollen diagram of surface samples from Turukhansk area. Habitats: DB—dense
+                      birch forests, DS—dense spruce forests, DA—dense aspen forest, OB—open birch forest, OS—open
+                      spruce forests, Wo—open woodlands, Pe—peatlands.
+
+                            Picea is present in the pollen assemblages in small quantities (0.2–5.9%, Table 2) in almost
+                      all samples, with the exception of two treeless wetland habitats. There is no difference in the
+                      Picea pollen value between closed spruce and birch forests (Figure 4), which is apparently due
+                      to the mosaic vegetation cover and the resulting averaging of the spectra.
+                            Pinus sylvestris is constantly present at 1–3%. In one of the samples collected in a wetland,
+                      the ﬀpollen value of Pinus sylvestris rose to 13%; that is where we found an isolated tree of this
+                      pine species. Abies is registered in 10 pollen assemblages in the amount of 1–3 pollen grains.
+                      Although the Turukhansk area lies within the geographical range of Abies sibirica, fir is rare,
+                      but during the field work, we found some fir in both tree and shrub forms.
+                            Unlike the study regions Tura and Igarka, shrub pollen is not abundant in Turukhansk.
+                      Pollen values of Alnus fruticosa and Salix varies in a range 1–6%. The amount of Betula nana
+                      pollen does not exceed 4% and it was not found in a number of samples. Rare pollen of
+                      Rosa sibirica and Sorbus were registered.
+                            Besides arboreal pollen from local and regional vegetation, long-distance Tilia and
+                      Carpinus pollen grains were identified.
+                            The percentages of non-arboreal pollen sum range from 4.7 to 29%. The exceptions are
+                      the peaks in two moss samples mainly due to Poaceae (up to 37%) and Cyperaceae (up to
+                      45%). The composition of the NAP does not differ much from other study areas. It should
+                      be noted that Ericaceae pollen content is low (0.1–1.7%) and is often absent.
+                            Sphagnum spores are abundant in peatlands (79.3 and 57.8%). In the other samples,
+                      the share of Sphagnum does not exceed a few percent. Spores of Lycopodium annotinum, L.
+                      clavatun and L. pungens are present, but not abundant. Polypodiaceae spores are a major
+                      part (26.2%) of a sample taken in a spruce forest with abundant ferns in the herbaceous
+                      layer; in other habitats, their spores are rare.
+
+                      4.4. Vanavara
+                           A total of 28 modern pollen assemblages have been examined for the Vanavara area
+                      (Figure 6). Nineteen study sites represent the forest vegetation formed by pine (Pinus
+                      sylvestris; six sampling plots), larch–pine and larch forests (Larix sibirica, L gmelinii and their
+                      hybrids; five sampling plots), wet habitats occupied by birch forests (Betula pendula; three
+                      sampling plots) and dark coniferous forests (Pinus sibirica, Picea obovata, Abies sibirica; five
+                      sampling plots) located in the valleys of Podkamennya Tunguska River and its tributaries.
+
+Land 2024, 13, 1939                                                                                            10 of 18
+
+
+
+                      Open wet woodlands (five sampling plots) are formed by Larix, with the participation of
+                      Pinus sibirica, Betula pendula and Picea obovata. Alnus fruticosa and Betula nana are most often
+                      found in the understory, while Vaccinium vitis-idaea, Vaccinium uliginosum are common
+                      in the dwarf shrub cover; Pleurozium schreberi and Sphagnum dominates among mosses.
+                      The vegetation mosaic of the peatland (four sampling plots) includes frozen peat plateau
+                      and perennial frost mounds covered by Cladonia, B. nana and dwarf shrubs. Thermokarst
+                      depressions and thawed hollows were occupied by various species of Carex, Eriophorum
+                      and Sphagnum mosses.                               ﬀ
+
+
+
+
+                      Figure 6. Percentage pollen diagram of surface samples from Vanavara area. Habitats: DS—dense
+                      spruce forests, DP—dense pine forest, DL—dense larch forests, DB—dense birch forests, OF—open
+                      forests mixed, Wo—open woodlands, Pe—peatlands.
+
+                            The results of the pollen analysis (Figure 6) showed that AP (85–97%) is dominated by
+                      Betula, Pinus sylvestris and Alnus fruticosa. The CONISS results clearly show the diversity of
+                      pollen assemblages produced by different types of plant communities.
+                            The pollen content of Pinus sylvestris varies from 2.4 to 73.1, with an average of 36.2%
+                      (Table 2). Much lower (0.2–3.6%) is the share of Pinus sibirica. The amount of Betula alba-type
+                      ranges from 13.1% to 78.5%, averaging 43.7% with Betula nana ranging from 0.4 to 6.2%.
+                      Alnus fruticosa ranged from 0.4 to 11.7%. The exceptions are the habitats where shrubs are
+                      abundant in local plant communities. For example, in pollen assemblages from open birch
+                      woodlands with a dense shrub layer of Alnus fruticosa, its pollen value reaches 57.3% and
+                      that from spruce forest 26.2%. Betula nana increased to 29.1% in the pollen spectra of shrub
+                      thickets formed by dwarf birch.
+                            Larix pollen was found only in seven sampling plots with low amounts: from 0.2 to
+                      3.5%. The mean value is 0.4% (Table 2). It is noteworthy that in pollen assemblages from
+                      larch forests with a Larix crown density of 0.5, no Larix pollen was recorded. However,
+                      Larix pollen has occasionally been found in pine and spruce forests where larch is present
+                      as an admixture in forest stands. The highest value of Larix (3.5%) occurred in open larch
+                      woodland with a canopy density of about 0.1.
+                            Picea pollen was recorded in all sampling plots (0.2–13.4%; the mean 2.6%), but is
+                      significantly more abundant in pollen assemblages from closed spruce forests (6–8%) than
+
+Land 2024, 13, 1939                                                                                                  11 of 18
+
+
+
+                      in other habitats (0.2–3%). In the spectra of open spruce woodlands and in peatlands, where
+                      spruce also grows, the amount of Picea pollen increases up to 5%.
+                           The NAP group is not abundant and poor. Pollen of the most common plant genera
+                      and families were identified, with a proportion not exceeding 1%. In samples from peatland
+                      habitats, the pollen content of Ericaceae, Poaceae and Cyperaceae increased to 5–10%.
+                      Spores are represented by Sphagnum (0.2–1.5%) and rare spores of Polypodiaceae, Lycopodium
+                      annotinum, L. clavatum and L. pungens.
+
+                      4.5. Principal Component Analysis
+                           The share of variance explained by the first and second PCs (principal components)
+                      was 20% and 17.2%, respectively. The biplot in Figure 7 shows that temperature regime
+                      (PC1) and climate continentality (PC2) are apparently critical factors affecting the distri-
+                      bution of vegetation and pollen assemblages in the permafrost zone of Central Siberia.
+                      The PCA results revealed that the pollen assemblages are clearly separated into three
+                      distinct clusters corresponding to the study regions: the southernmost study region in
+                      Central Siberia (Vanavara) with the prevalence of Betula alba and Pinus sylvestris, the
+                      center study region in Central Siberia (Tura) with Alnus fructicosa, Larix, Betula nana,
+                      Ericaceae and Yenisei Siberia (Igarka and Turukhansk) with Pinus sibirica, Picea, Poaceae,
+                      Cyperaceae, Sphagnum. Despite the proximity of the pollen assemblages at Igarka and Tu-
+                      rukhansk, their differences are determined, emphasizing a positive correlation between
+                      pollen and vegetation.
+
+
+
+
+                      Figure 7. Biplot of the principal component analysis based on surface pollen data from Central Siberia.
+
+                      5. Discussion
+                          Data from 102 surface samples from four study regions in the permafrost zone of
+                      Central Siberia showed that the composition and the ratio of components in the tree and
+                      shrub pollen group must be carefully analyzed for interpretation.
+
+Land 2024, 13, 1939                                                                                              12 of 18
+
+
+
+                      5.1. The Proportion of Larix in Modern Pollen Assemblages
+                           The results of the analysis revealed that the predominant components in the pollen
+                      assemblages from the larch forests in Tura were Betula and Alnus fruticosa, and Pinus and
+                      Betula in those from three other study regions (Figure 8). The proportion of Larix in pollen
+                      assemblages is notably underestimated in relation to its participation in the plant communities.
+
+
+
+
+                      Figure 8. The proportion of the arboreal species in modern pollen assemblages from Central Siberia
+                      in relation to their geographical ranges.
+
+                             Our data indicated that the proportion of larch in the spectra reaches its maximum
+                      values in Tura (0.6–13.5%, average value 5.2%), where Larix gmelinii and Betula pendula
+                      are the dominant tree species. Although the geographical range of Picea obovata and Pinus
+                      sibirica reaches the Tura area (Figure 1), these species are rare in the forests and grow in the
+                      most favorable habitats. In Igarka, besides Larix gmelinii and Larix sibirica, a great portion
+                      of forest stands are Picea obovata, Betula pendula and Pinus sibirica. Larix pollen occurs in
+                      all pollen assemblages from Igarka, but its value does not exceed 5.2%, the mean value
+                      being 1.5%. In other areas, Betula, Pinus sibirica (Turukhansk) and Pinus sylvestris (Vanavara)
+                      dominate the forest stands. Although larch makes up a significant proportion of the forest,
+                      it is only present in 1–3 pollen grains in a third of the pollen assemblages studied.
+
+Land 2024, 13, 1939                                                                                           13 of 18
+
+
+
+                            Palynologists who studied the history of larch forests and vegetation changes in the
+                      regions with larch occurrence have constantly noted the discrepancy between the presence
+                      of larch pollen in the assemblages and its share in the vegetation [29,30,59,60]. For example,
+                      in surface samples from larch forests of the Timan Peninsula (Komi Republic, Russia), the
+                      Larix pollen content varies from 0.6 to 5.0% [61] (here and below, the percentages of pollen
+                      taxa are given from the sum of AP + NAP; if the authors used other calculation methods,
+                      the percentages were recalculated). In the larch forests of northern Sakhalin, the proportion
+                      of Larix pollen can reach 12.3%, with the mean of 1.5% [62]. Studies in the larch wooded
+                      tundra of the Lena River delta have shown that rare pollen grains of Larix can be found
+                      everywhere. However, in areas close to mature larch trees, the proportion of Larix pollen
+                      increased to 4–10% [35]. A mean of 2.4% of Larix pollen has been revealed in the wooded
+                      tundra of the southern Taymyr Peninsula, Khatanga River basin [30]. The average value
+                      of Larix in the pollen assemblages from the larch forests of the Indigirka River basin was
+                      about 3% [39].
+                            The question remains controversial: what value of Larix pollen percentages can be
+                      used to prove the growth of larch in the area studied? For northern Europe, Lisitsyna
+                      et al. [63] suggested 0.5%, while Klemm et al. [39], based on a large surface dataset from
+                      the north of eastern Siberia, considered this value to be underestimated and recommended
+                      2% as the limit for larch presence in regional vegetation. Our results revealed that the
+                      proportion of Larix pollen can be 0.6–1.5%, even in the dense larch forests of the Tura area,
+                      where the maximum amount of larch pollen was found. It should be noted that these
+                      samples were characterized by very good pollen preservation and a large number of pollen
+                      grains counted, reducing the possibility of errors.
+
+                      5.2. The Proportion of Picea and Pinus in Modern Pollen Assemblages
+                            Picea obovata grows in the studied region as an admixture in larch and pine–larch
+                      forests. The share of its pollen in the spectra is low (2.6–8.2 in average, Table 2), which
+                      underestimates the participation of spruce in the forest communities. There is a pattern
+                      of an increase in the portion of Picea pollen in the assemblages at habitats where spruce
+                      is part of the plant community or grows nearby. In Igarka, where spruce has the largest
+                      proportion in the vegetation compared to other areas, the maximum level (up to 26.6%) of
+                      spruce pollen is found (Figure 8).
+                            Pinus pollen is present in all surface samples examined. The growing area of Pinus
+                      sibirica covers the entire study region (Figure 1). In Tura and Igarka, Pinus sibirica is close
+                      to the range boundary [44]. However, according to our field observations, Pinus sibirica
+                      is a common tree in Igaraka, but very rare in Tura due to the more continental climate.
+                      The northern limit of the range of Pinus sylvestris in the middle reaches of the Nizhnyaya
+                      Tunguska River is located about 150 km west of the Tura region and crosses the valley of
+                      the Yenisei River at Turukhansk. (Figure 1). Our data showed that in regions outside the
+                      geographical range of the pines, the proportion of pollen from both pine species reaches its
+                      maximum values in sampling plots located in treeless peatlands and in open woodlands
+                      or burnt areas. As several pollen studies have shown, due to the filtering effect of the
+                      canopy and the high pollen productivity of the trees, the contribution of wind-transported
+                      pollen from distant areas is significantly lower under the forest canopy than in open
+                      habitats [11,13,19,64]. Therefore, the proportion of pine pollen increases in treeless or
+                      very low canopy density plant communities [65]. Some researchers even use Pinus pollen
+                      content or the Pinus/Larix ratio as an indicator of increasing landscape openness in Arctic
+                      regions [20].
+                            In contrast to the Tura area, Pinus sibirica is one of the most common tree species
+                      in Igarka and Turukhansk. The proportion of Pinus in the pollen assemblages increased
+                      markedly (Figure 8). The average pollen values increase from 8.2% in Tura to more than
+                      40% in the other areas.
+                            Beyond the geographical range, the pollen content of Pinus sylvestris is about 2–3% on
+                      average, but in Vanavara, where Pinus sylvestris is the most common tree, the mean value
+
+Land 2024, 13, 1939                                                                                               14 of 18
+
+
+
+                      of this pine species pollen has increased to 36.2%. In most of the pollen assemblages, the
+                      proportion of pollen from birch—the second most important tree in the forest—is between
+                      20 and 35%. The share of Betula and Pinus pollen is greatly overestimated in relation to the
+                      amount of birch and pine present in the forest stands. A similar phenomenon has been
+                      described in forests where the pollen productivity of the main forest-forming species is
+                      lower than that of pine and birch, not only in larch forests but also in spruce dominated
+                      stands [19,29,31,37]. Our data show that the percentages of Pinus and Betula are in opposite
+                      phases in pollen assemblages from Central Siberia within the Pinus areal.
+
+                      5.3. The Proportion of Shrubs in Modern Pollen Assemblages
+                           The participation of shrubs in pollen assemblages clearly depends on the vegetation
+                      pattern of the study areas and the pollen productivity of these species. Alnus fruticosa, a
+                      wind-pollinated shrub species with a high pollen productivity like all species of alder [29,30],
+                      is widespread in the study area, so it is not surprising that it has a relatively high pollen value.
+                      In sampling plots where the shrub alder is abundant in the local vegetation, the contribution
+                      of Alnus fruticosa pollen rises to 45–50%. In Tura, there are significantly more habitats with
+                      high populations of Alnus fruticosa than in other areas. It forms thickets in burnt areas as well
+                      as undergrowth. Therefore, Alnus fruticosa is the main component of the pollen assemblages
+                      in Tura (average value 27.3%), while in the other study regions, its share does not exceed 7–8%.
+                      The percentage of Betula nana is high in plots where it dominates the local vegetation, such
+                      as shrub thickets on frozen peat plateaus and perennial frost mounds. The amount of Salix
+                      pollen is also dependent on the environmental conditions in the area.
+
+                      5.4. The Long-Distance Transported Taxa in Modern Pollen Assemblages
+                           The pollen of Tilia, Ulmus, Carpinus and Alnus sp. are exotic to the flora of the region
+                      under study. The areal boundaries of these tree species are thousands of kilometers away
+                      from the permafrost zone of Central Siberia [44]. The transfer of pollen of broad-leaved
+                      trees and various conifers to the Arctic and to regions with severe climates far beyond their
+                      native range has been well documented in pollen studies [32]. For example, single pollen
+                      grains of Tilia and Alnus have been found in surface samples in the Polar Urals [66] and in
+                      the lake sediments in the north of Taimyr [67]. Rare pollen from various pine species is a
+                      typical phenomenon for Arctic regions, both in Europe [37,68] and in Siberia [35,69].
+
+                      5.5. The Composition of Non-Arboreal Pollen and Spores in Modern Pollen Assemblages
+                            The composition and the ratio of taxa in the NAP group reflect the main patterns of
+                      species composition and abundance of the various herbaceous plants in the vegetation
+                      cover, as far as possible they were determined by pollen analysis. Detailed studies of the
+                      composition of modern flora and vegetation of the study area showed that herbaceous
+                      plants in forest communities are represented by Ericaceae, Rosaceae and Poaceae [70].
+                      Pollen from these families is most commonly recorded in pollen assemblages. In wetland
+                      habitats, the proportion of Cyperaceae pollen increases due to the important role of sedges
+                      and cottongrass (Eriophorum) in the local vegetation. Rubus chamaemorus and Menyanthes
+                      trifoliata are the common taxa in spectra from peatland.
+                            The pollen of plants that are typical of habitats with disturbed or undeveloped soil and
+                      vegetation cover is present in the majority of the sampling plots. We include in this group
+                      of pollen Chenopodiaceae, Artemisia, Plantago, Urtica, Convolvulus, Polygonum aviculare-type
+                      and Rumex. The family Chenopodiaceae is represented in the study area by only three
+                      species, namely Chenopodium acerifolium Andrz., Ch. Rubrum L. and Ch. Suecicum Murr. [71],
+                      which grow on roadsides or on the banks of rivers and lakes, and on pebbles. There
+                      are five species of Artemisia, the most common of which are Artemisia vulgaris L., which
+                      grows in burnt areas and on the edges of larch forests, and Artemisia laciniata Willd., a
+                      species of meadow steppe [72]. Onagraceae pollen, obviously belonging to Chamaenerion
+                      angustifolium, is present in a number of samples. This is an indicator of burnt areas, which
+                      are common in the study region.
+
+Land 2024, 13, 1939                                                                                                              15 of 18
+
+
+
+                                       Although the group of spores is not very abundant, characteristic species of taiga
+                                  forests were identified, such as Lycopodium annotinum, L. clavatum (most frequently found
+                                  in the study area), as well as Diphasiastrum complanatum and Huperzia selago. The presence
+                                  of Selaginella selaginoides spores should be noted. It is a circumpolar hypoarcto-montane
+                                  species, very rare in the Angara–Tunguska province, and its occurrence has not been
+                                  recorded in our study regions [72].
+
+                                  6. Conclusions
+                                       A study of 102 modern pollen assemblages from various plant communities across the
+                                  larch biome in Central Siberia has enabled us to reach the following conclusions.
+                                       1. Despite larch being the most prevalent tree species in the study area, the dominant
+                                  components of the pollen assemblages are Betula, Alnus fruticosa and Pinus. The discrepancy
+                                  in the pollen–vegetation relationship can be explained by differences in pollen productivity,
+                                  distribution features and the pollen resistance to decomposition of various arboreal plants.
+                                  The proportion of larch pollen (0.4–4.7% on average) is underestimated in relation to its
+                                  participation in vegetation. It is notable that even in larch forests with a high canopy
+                                  density, the contribution of Larix can be as low as 0.6–1.5%. Thus, there is no relationship
+                                  between the amount of larch pollen in the spectra and the abundance of the larch in local
+                                  vegetation. The share of Picea pollen is also underestimated in comparison to its ratio in
+                                  forests. The pollen value of Picea is relatively low (2.6–8.2% on average), with higher values
+                                  observed at sample plots where spruce is part of the forest stand.
+                                       2. Pinus pollen is an imported component of pollen spectra in the inner part of Central
+                                  Siberia (Tura model area), located outside the range of Pinus sylvestris and close to the limit
+                                  of Pinus sibirica distribution. Our data revealed that the proportion of pollen from both
+                                  pine species increased in habitats with low canopy density or treeless sites. This suggests
+                                  that Pinus pollen value can be used as an indicator of increased landscape openness. The
+                                  proportion of Pinus pollen within the geographical range (study areas Turukhansk, Igarka
+                                  and Vanavara) is significantly higher. However, we assume that analysis of macro-remains
+                                  (seeds, needles, bark, wood, etc.) would be needed to reach a more accurate interpretation
+                                  of the fossil pollen assemblages and to confirm whether pine trees were present in the study
+                                  area in the past.
+                                       3. The composition of the NAP group is strongly influenced by local conditions. Pollen
+                                  from plants characteristic of taiga forests, peatlands and meadows, as well as indicators of
+                                  disturbed soils and burnt areas, were identified, allowing for more detailed reconstructions
+                                  of local vegetation.
+
+                                  Author Contributions: Conceptualization, E.N.; investigation, N.M., A.S., A.C., K.B., M.K. and A.P.;
+                                  data curation, N.M. and A.S.; writing—original draft preparation, E.N. and A.V.K.; writing—review and
+                                  editing, E.N. and A.V.K. All authors have read and agreed to the published version of the manuscript.
+                                  Funding: The studies were supported by a grant of the Ministry of Science and Higher Education of
+                                  Russian Federation (agreement No. 075-15-2024-554 of 24.04.2024).
+                                  Data Availability Statement: The original contributions presented in the study are included in the
+                                  article, further inquiries can be directed to the corresponding author.
+                                  Acknowledgments: The authors are very thankful to the director of the Tungusky State Nature
+                                  Reserve L.N. Logunova and her colleagues for their help in the field work.
+                                  Conflicts of Interest: The authors declare no conflicts of interest.
+
+References
+1.    Prentice, I.C. Pollen representation, source area, and basin size: Toward a unified theory of pollen analysis. Quat. Res. 1985, 23,
+      76–86. [CrossRef]
+2.    Sugita, S. Pollen representation of vegetation in Quaternary sediments: Theory and method in patchy vegetation. J. Ecol. 1994, 82,
+      881–897. [CrossRef]
+
+Land 2024, 13, 1939                                                                                                                     16 of 18
+
+
+
+3.    Hicks, S.; Tinsley, H.; Huusko, A.; Jensen, C.; Hattestrand, M.; Gerasimides, A.; Kvavadze, E. Some comments on spatial variation
+      in arboreal pollen deposition: First records from the Pollen Monitoring Programme (PMP). Rev. Palaeobot. Palynol. 2001, 117,
+      183–194. [CrossRef]
+4.    Zheng, Z.; Huang, K.Y.; Xu, Q.H. Comparison of climatic threshold of geographical distribution between dominant plants and
+      surface pollen in China. Sci. China Earth Sci. 2008, 51, 1107–1120. [CrossRef]
+5.    Marquer, L.; Gaillard, M.J.; Sugita, S.; Trondman, A.K.; Mazier, F.; Nielsen, A.B.; Fyfe, R.M.; Odgaard, B.V.; Alenius, T.; Birks, H.J.B.;
+      et al. Holocene changes in vegetation composition in northern Europe: Why quantitative pollen-based vegetation reconstructions
+      matter. Quat. Sci. Rev. 2014, 90, 199–216. [CrossRef]
+6.    Birks, H.J.B. Contributions of Quaternary botany to modern ecology and biogeography. Plant Ecol. Divers. 2019, 12, 189–385.
+      [CrossRef]
+7.    Davis, M.B. On the theory of pollen analysis. Am. J. Sci. 1963, 261, 897–912. [CrossRef]
+8.    Andersen, S.T. The relative pollen productivity and pollen representation of north European trees, and correction factors for tree
+      pollen spectra. Dan. Geol. Undersøgelse Ser. II 1970, 96, 1–99.
+9.    Bradshaw, R.H.W.; Webb, T. Relationships between contemporary pollen and vegetation data from Wisconsin and Michigan,
+      USA. Ecology 1985, 66, 721–737. [CrossRef]
+10.   Hicks, S. Modern pollen deposition and its usein interpreting the occupation history of the island Hailuoto, Finland. Veg. Hist.
+      Archaeobot. 1992, 1, 75–86. [CrossRef]
+11.   Hicks, S. The use of annual arboreal pollen deposition values for delimiting tree lines in the landscape and exploring models of
+      pollen dispersal. Rev. Palaeobot. Palynol. 2001, 117, 1–29. [CrossRef]
+12.   Sugita, S.; Gaillard, M.J.; Broström, A. Landscape openness and pollen records: A simulation approach. Holocene 1999, 9, 409–421.
+      [CrossRef]
+13.   Pisaric, M.F.J.; MacDonald, G.M.; Cwynar, L.C.; Velichko, A.A. Modern pollen and conifer stomates from North-central Siberian
+      Lake sediments: Their use in interpreting late quaternary fossil pollen assemblages. Arct. Antarct. Alp. Res. 2001, 33, 19–27.
+      [CrossRef]
+14.   Seppä, H.; Birks, H.J.B.; Odland, A.; Poska, A.; Veski, S. A modern pollen-climate calibration set from northern Europe: Developing
+      and testing a tool for palaeoclimatological reconstructions. J. Biogeogr. 2004, 31, 251–267. [CrossRef]
+15.   Bennett, K.D.; Hicks, S. Numerical analysis of surface and fossil pollen spectra from northern Fennoscandia. J. Biogeogr. 2005, 32,
+      407–423. [CrossRef]
+16.   Bjune, A.E.; Bakke, J.; Nesje, A.; Birks, H.J.B. Holocene mean July temperature and winter precipitation in western Norway
+      inferred from palynological and glaciological lake-sediment proxies. Holocene 2005, 15, 177–189. [CrossRef]
+17.   Broström, A.; Sugita, S.; Gaillard, M.-J. Estimating the spatial scale of pollen dispersal in the cultural landscape of southern
+      Sweden. Holocene 2005, 15, 252–262. [CrossRef]
+18.   Giesecke, T. Holocene forest development in the central Scandes Mountains, Sweden. Veg. Hist. Archaeobot. 2005, 14, 133–147.
+      [CrossRef]
+19.   Pelánková, B.; Kuneš, P.; Chytrý, M.; Jankovská, V.; Ermakov, N.; Svobodová-Svitavská, H. The relationships of modern pollen
+      spectra to vegetation and climate along a steppe–forest–tundra transition in southern Siberia, explored by decision trees. Holocene
+      2008, 18, 1259–1271. [CrossRef]
+20.   Klemm, J.; Herzschuh, U.; Pestryakova, L.A. Vegetation, climate and lake changes over the last 7000 years at the boreal treeline in
+      north-central Siberia. Quat. Sci. Rev. 2016, 147, 422–434. [CrossRef]
+21.   Novenko, E.Y.; Mazei, N.G.; Zernitskaya, V.P. Recent pollen assemblages from protected areas of European Russia as a key to
+      interpreting the results of paleoecological studies. Nat. Conserv. Res. 2017, 2, 55–65. [CrossRef]
+22.   Zhang, N.; Ge, Y.; Li, Y.; Li, B.; Zhang, R.; Zhang, Z.; Fan, B.; Zhang, W.; Ding, G. Modern pollen-vegetation relationships in the
+      Taihang Mountains: Towards the quantitative reconstruction of land-cover changes in the North China Plain. Ecol. Indic. 2021,
+      129, 107928. [CrossRef]
+23.   Zhao, Y.; Li, Y.; Zhang, Z.; Fan, B.; Zhu, Y.; Zhao, H. Relationship between modern pollen assemblages and vegetation in the
+      Bashang typical steppe region of North China. Ecol. Indic. 2022, 135, 108581. [CrossRef]
+24.   Olatoyan, J.O.; Neumann, F.H.; Orijemie, E.A.; Sievers, C.; Evans, M.; Hattingh, T.; Schoeman, M.H. Modern pollen- and
+      phytolith-vegetation relationships at a wetland in northeastern South Africa. S. Afr. J. Bot. 2023, 161, 780–796. [CrossRef]
+25.   Lin, L.; Miao, Y.; Zhao, Y.; Yang, D.; Wang, G. Relationships between modern pollen and vegetation and climate on the eastern
+      Tibetan Plateau. Res. Cold Arid Reg. 2023, 15, 92–104. [CrossRef]
+26.   Lee, J.; Yi, S.; Lim, J. A modern pollen-climate dataset from South Korea and its application for pollen-based quantitative climate
+      reconstruction during the Holocene. Catena 2024, 241, 108032. [CrossRef]
+27.   Sugita, S. Theory of quantitative reconstruction of vegetation. Pollen from large sites REVEALS regional vegetation composition.
+      Holocene 2007, 17, 229–241. [CrossRef]
+28.   Gaillard, M.-J.; Sugita, S.; Bunting, J.; Dearing, J.; Bittmann, F. Human impact on terrestrial ecosystems, pollen calibration and
+      quantitative reconstruction of past land cover. Veg. Hist. Archaeobot. 2008, 17, 415–418. [CrossRef]
+29.   Sjögren, P.; van der Knaap, W.O.; Huusko, A.; van Leeuwen, J.F.N. Pollen productivity, dispersal and representation factors of
+      major tree taxa in the European Alps based on pollen trap results. Rev. Palaeobot. Palynol. 2008, 152, 200–210. [CrossRef]
+
+Land 2024, 13, 1939                                                                                                                    17 of 18
+
+
+
+30.   Niemeyer, B.; Klemm, J.; Pestryakova, L.A.; Herzschuh, U. Relative pollen productivity estimates for common taxa of the northern
+      Siberian Arctic. Rev. Palaeobot. Palynol. 2015, 221, 71–82. [CrossRef]
+31.   Geng, R.; Andreev, A.; Kruse, S.; Heim, B.; van Geffen, F.; Pestryakova, L.; Zakharov, E.; Troeva, E.; Shevtsova, J.; Li, F.; et al.
+      Modern Pollen Assemblages from Lake Sediments and Soil in East Siberia and Relative Pollen Productivity Estimates for Major
+      Taxa. Front. Ecol. Evol. 2022, 10, 837857. [CrossRef]
+32.   Vasil’chuk, A.K. Regional and long transported pollen in tundra palynospectra. Izv. AN Biol. 2005, 1, 88–99.
+33.   Tarasov, P.; Williams, J.W.; Andreev, A.; Nakagawa, T.; Bezrukova, E.; Herzschuh, U.; Igarashi, Y.; Müller, S.; Werner, K.; Zheng,
+      Z. Satellite- and pollen-based quantitativewoody cover reconstructions for northern Asia: Verification and application to late-
+      Quaternary pollen data. Earth Planet. Sc. Lett. 2007, 264, 284–298. [CrossRef]
+34.   Müller, S.; Tarasov, P.E.; Andreev, A.A.; Tütken, T.; Gartz, S.; Diekmann, B. Late Quaternary vegetation and environments in the
+      Verkhoyansk Mountains region (NE Asia) reconstructed from a 50-kyr fossil pollen record from Lake Billyakh. Quat. Sci. Rev.
+      2010, 29, 2071–2086. [CrossRef]
+35.   Rashke, E.A.; Savelieva, L.A. Subrecent Spore-Pollen Spectra and Modern Vegetation from the Lena River Delta, Russian Arctic.
+      Contemp. Probl. Ecol. 2017, 24, 456–472. [CrossRef]
+36.   Lopatina, D.A.; Zanina, O.G. Subrecent spore–pollen spectra from the Lower Kolyma river basin and their importance for the
+      reconstruction of the quaternary paleogeography of the region. Stratigr. Geol. Correl. 2016, 24, 203–211. [CrossRef]
+37.   Mazei, N.G.; Kusilman, M.V.; Novenko, E.Y. The occurrence of Carpinus, Fagus, Tilia, and Quercus pollen in subrecent spore–
+      pollen spectra from the East European Plain: On the possibility of long-distance pollen transfer. Russ. J. Ecol. 2018, 49, 484–491.
+      [CrossRef]
+38.   Davis, B.A.S.; Chevalier, M.; Sommer, P.; Carter, V.A.; Finsinger, W.; Mauri, A.; Phelps, L.N.; Zanon, M.; Abegglen, R.; Åkesson,
+      C.M.; et al. The Eurasian Modern Pollen Database (EMPD), version 2. Earth Syst. Sci. Data 2020, 12, 2423–2445. [CrossRef]
+39.   Klemm, J.; Herzschuh, U.; Pisaric, M.F.J.; Telford, R.J.; Heim, B.; Pestryakova, L.A. A pollen-climate transfer function from the
+      tundra and taiga vegetation in Arctic Siberia and its applicability to a Holocene record. Palaeogeogr. Palaeoclim. Palaeoecol. 2013,
+      386, 702–713. [CrossRef]
+40.   Magyari, E.K.; Kuneš, P.; Jakab, G.; Sümegi, P.; Pelánková, B.; Schäbitz, F.; Braun, M.; Chytrý, M. Late Pleniglacial vegetation in
+      eastern-central Europe: Are there modern analogues in Siberia? Quat. Sci. Rev. 2014, 95, 60–79. [CrossRef]
+41.   Novenko, E.Y.; Mazei, N.G.; Kupriyanov, D.A.; Filimonova, L.V.; Lavrova, N.B. Subfossil spore–pollen spectra from larch forests
+      of Central Evenkia: Special aspects of interpretation for paleoecological research purposes. Russ. J. Ecol. 2021, 52, 429–437.
+      [CrossRef]
+42.   Astakhov, V.; Shkatova, V.; Zastrozhnov, A.; Chuyko, M. Glaciomorphological Map of the Russian Federation. Quat. Int. 2016,
+      420, 4–14. [CrossRef]
+43.   Atlas SSSR [Atlas of USSR]; Glav. upr. Geodezii i Kartografii pri Sovete Ministrov SSSR: Moskva, Russia, 1983.
+44.   Forests of the USSR (Map, M 1:2500000); Federal Forestry Service: Moscow, Russia, 1990.
+45.   Beck, H.; Zimmermann, N.; McVicar, T.; Vergopolan, N.; Berg, A.; Wood, E.F. Present and future Köppen-Geiger climate
+      classification maps at 1-km resolution. Sci. Data 2018, 5, 180214. [CrossRef]
+46.   Veselov, V.M.; Pribyl’skaya, I.P.; Mirzeabasov, O.A. Nauchno-prikladnoy spravochnik “Klimat Rossii.” 2022 [Scientific and
+      Applied Reference Book “Climate of Russia”] VNIIGMI-MCD, Obninsk. Available online: http://aisori-m.meteo.ru/climsprn
+      (accessed on 12 October 2023).
+47.   Geocryologya SSSR. Srednya Sibir’ [Geocryology of USSR, Middle Siberia]; Ershov, E.D., Ed.; Nedra-press: Moscow, Russia, 1989;
+      414p.
+48.   Korets, M.A.; Ryzhkova, V.A.; Danilova, I.V.; Prokushkin, A.S. Vegetation cover mapping based on remote sensing and digital
+      elevation model data. Int. Arch. Photogramm. Remote Sens. Spat. Inf. Sci. 2016, XLI-B8, 699–704. [CrossRef]
+49.   Bartalev, S.; Egorov, V.; Loupian, E.; Khvostikov, S. A new locally-adaptive classification method LAGMA for large-scale land
+      cover mapping using remote-sensing data. Remote Sens. Lett. 2014, 5, 55–64. [CrossRef]
+50.   Moore, P.D.; Webb, J.A.; Collinson, M.E. Pollen Analysis; Blackwell Scientific Publications: Oxford, UK; Boston, MA, USA, 1991;
+      216p.
+51.   Mazei, N.G.; Novenko, E.Y. The use of propionic anhydride in the sample preparation for pollen analysis. Nat. Conserv. Res. 2021,
+      6, 110–112. [CrossRef]
+52.   Reille, M. Pollen et spores d’Europe et d’Afrique du Nord; Laboratoire de Botanique Historique et Palynologie: Marseille, France, 1992.
+53.   Beug, H.-J. Leitfaden der Pollenbestimmung für Mitteleuropa und Angrenzende Gebiete; Publisher Verlag Friedrich Pfeil: Munich,
+      Germany, 2004; 542p.
+54.   Grimm, E. TILIA and TILIA*GRAPH.PC spreadsheet and graphics software for pollen data. INQUA Work. Group Data-Handl.
+      Methods Newsl. 1990, 4, 5–7.
+55.   Grimm, E. CONISS: A FORTRAN 77 program for stratigraphically constrained cluster analysis by the method of incremental
+      sum of squares. Comput. Geosci. 1987, 13, 13–35. [CrossRef]
+56.   Ter Braak, C.J.F.; Prentice, I.C. A theory of gradient analysis. In Advances in Ecological Research; Begon, M., Fitter, A.H., Ford, E.D.,
+      Macfadyen, A., Eds.; Academic Press: Cambridge, MA, USA, 1988; pp. 271–317.
+57.   R Core Team. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing, Vienna,
+      Austria. Available online: https://www.R-project.org/ (accessed on 12 October 2024).
+
+Land 2024, 13, 1939                                                                                                                     18 of 18
+
+
+
+58.   Wickham, H. ggplot2: Elegant Graphics for Data Analysis; Springer: New York, NY, USA, 2016; 213p.
+59.   Pelánková, B.; Chytrý, M. Surface pollen–vegetation relationships in the forest-steppe, taiga and tundra landscapes of the Russian
+      Altai Mountains. Rev. Palaeobot. Palynol. 2009, 157, 253–265. [CrossRef]
+60.   Wagner, S.; Litt, T.; Sánchez-Goñi, M.-F.; Petit, R.J. History of Larix decidua Mill. (European larch) since 130 ka. Quat. Sci. Rev. 2015,
+      124, 224–247. [CrossRef]
+61.   Nepomilyeva, N.I.; Duriagina, D.A. About history of Middle Timan larch forests in Holocene. Bot. J. 1990, 75, 326–335.
+62.   Mikishin, Y.A.; Gvozdeva, I.G. Subfossil Spore-Pollen Assemblages of Sakhalin and Adjacent Territories; Far East University Publisher:
+      Vladivostok, Russia, 2009; 162p.
+63.   Lisitsyna, O.V.; Hicks, S.; Huusko, A. Do moss samples, pollen traps and modern lake sediments all collect pollen in the same
+      way? A comparison from the forest limit area of northernmost Europe. Veg. Hist. Archaeobot. 2012, 21, 187–199. [CrossRef]
+64.   Dimbelby, G.W. Soil pollen analysis. Soil Sci. 1961, 12, 3–11. [CrossRef]
+65.   Twiddle, C.L.; Jones, R.T.; Caseldine, C.J.; Sugita, S. Pollen productivity estimates for a pine woodland in eastern Scotland: The
+      influence of sampling design and vegetation patterning. Rev. Palaeobot. Palynol. 2012, 174, 67–78. [CrossRef]
+66.   Lapteva, E.G. Subfossil spore-pollen spectra of Southern Urals modern vegetation. Bashkirsky Univ. Bull. 2013, 18, 77–81.
+67.   Andreev, A.A.; Tarasov, P.E.; Klimanov, V.A.; Melles, M.; Lisitsyna, O.M.; Hubberten, H.-W. Vegetation and climate changes
+      around the Lama Lake, Taymyr Peninsula, Russia during the Late Pleistocene and Holocene. Quat. Int. 2004, 122, 69–84.
+      [CrossRef]
+68.   Rudenko, O.V. Palinostratigraphy of glaciomarine and marine sediments of the Barents Sea. In Barents Sea System; Lysytsyn, A.P.,
+      Kravchishina, M.D., Shevchenko, A.D., Eds.; GEOS: Moscow, Russia, 2021; pp. 51–63. [CrossRef]
+69.   Ektova, S.N.; Lapteva, E.G.; Trofimova, S.S. The reflection of tundra vegetation floristic composition of Uribei River valley (Middle
+      Yamal) in plant macrofossil recent assemblages. Reg. Ecol. Probl. 2013, 4, 39–44.
+70.   Krivobokov, L.V.; Zverev, A.A. Classification of plant community and traits of coenoflora of larch forests of Middle Siberia
+      permafrost zone (Nizhnyaya Tunguska river basin). Probl. Bot. Yuzhnoy Sib. I Mongolii 2015, 14, 99–104. (In Russian)
+71.   Krasnoborov, I.M.; Malyshev, L.I. (Eds.) Flora of Siberia: In 14 Volumes; Vol. 5: Salicaceae—Amaranthaceae; Nauka: Novosibirsk,
+      Russia, 1992; 312p.
+72.   Polozhiy, A.V. (Ed.) Flora of Krasnoyask Krai; Tomsk University Publisher: Tomsk, Russia, 1983; 83p.
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
