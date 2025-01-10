@@ -1,25 +1,9 @@
+# 0. Dependencies ----
 library(ollamar)
 library(httr2)
-library(pdftools)
 library(tidyverse)
-library(tm)
 
-# PDF selection
-project = readline('Write your article folder name: ')
-
-file_paths = paste0('data/', 
-                    project,
-                    '/',
-                    list.files(paste0('data/', project), 'pdf$', recursive = T))
-
-file_names = file_paths |> 
-  as_tibble_col('files') |> 
-  separate_wider_delim(files, delim = '/', names = c('data',
-                                                     'folder',
-                                                     'prefix',
-                                                     'file_name')) |> 
-  select(file_name)
-
+# 1. PDFs handling -----
 # Text mining: how to pull an abstact? Using Grobid
 base_url = 'http://localhost:8070/api'
 header_document = '/processHeaderDocument'
@@ -35,6 +19,7 @@ if (check == 'true') {
   print('Grobid is disabled. Please check your container')
 }
 
+# Returning data from Grobid local server
 response = request(base_url) |> 
   req_url_path_append(header_document) |> 
   req_headers(
@@ -50,12 +35,16 @@ write(response, 'temp/output_request_kakzhezaebalo.xml')
 perform_request = response_form |> 
   req_perform()
 
+# Return title and abstract from a TEI XML file
+tei_xml = read_xml('temp/output_request_kakzhezaebalo.xml')
 
+title = tei2r::parseTEI(tei_xml, 'titleStmt') |> 
+  stringr::str_squish()
 
+abstract = tei2r::parseTEI(tei_xml, 'abstract') |> 
+  stringr::str_squish()
 
-
-
-
+# 2. Article relevance assessment ----
 research_question = readline('Write your research question: ')
 
 # LLM request
