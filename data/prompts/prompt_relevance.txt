@@ -9,5 +9,5 @@ Scoring Criteria:
 2 points: The paper is related to the topic of the research questions but is unlikely to contain relevant answers.
 1 point: The paper is unrelated to the topic of the research questions.
 Question: {research_question}
-Header: {header}
+Title: {title}
 Abstract: {abstract}
