@@ -9,22 +9,9 @@ source('R/functions.R')
 
 # 1. PDFs handling -----
 # PDF selection
-project = readline('Write your article folder name: ')
+project = readline('Write your article folder name in "data/": ')
 
-file_paths = paste0('data/', 
-                    project,
-                    '/',
-                    list.files(paste0('data/', project), 'pdf$', recursive = T))
-
-file_names = file_paths |> 
-  as_tibble_col('files') |> 
-  separate_wider_delim(files, delim = '/', names = c('data',
-                                                     'folder',
-                                                     'prefix',
-                                                     'file_name')) |> 
-  select(file_name) |> 
-  mutate(id = 1:length(file_paths)) |> 
-  relocate(id)
+files = read_corpus(project)
 
 # Text mining: how to pull an abstact? Using Grobid
 base_url = 'http://localhost:8070/api'
@@ -42,7 +29,7 @@ if (check == 'true') {
 }
 
 # Returning data from Grobid local server
-teis = lapply(file_paths,
+teis = lapply(files$paths,
               extract_tei,
               url = base_url,
               header = header_document)
@@ -50,9 +37,10 @@ teis = lapply(file_paths,
 titles_abstracts = tibble(
   id = 1:length(teis),
   title = sapply(teis, extract_title),
-  abstract = sapply(teis, extract_abstract)
+  abstract = sapply(teis, extract_abstract),
+  authors = sapply(teis, extract_authors)
 ) |> 
-  left_join(file_names, by = 'id') |> 
+  left_join(files, by = 'id') |> 
   relocate(file_name, .after = 'id')
 
 # 2. Article relevance assessment ----
@@ -62,7 +50,7 @@ model = readline('Write model name: ')
 # LLM request
 test_connection()
 
-prompt = readLines('data/prompts/prompt_relevance.txt') |> 
+prompt = readLines('data/prompts/relevance.txt') |> 
   paste0(collapse = '\n')
 
 relevance = c()
@@ -80,8 +68,23 @@ for (i in 1:length(titles_abstracts$id)) {
   scores = append(scores, score)
 }
 
+threshold = 3
 relevance_result = tibble(
   titles_abstracts,
   relevance,
   scores
-)
+) |> 
+  filter(scores > threshold)
+
+# Generate a report ----
+rmarkdown::render(input = 'data/report_templates/relevance.Rmd',
+                  output_file = glue::glue('relevance_{project}.html'),
+                  output_dir = 'reports',
+                  params = list(
+                    score = relevance_result |> 
+                      select(title, authors, scores),
+                    relevance = relevance_result |> 
+                      select(title, authors, relevance),
+                    model = model,
+                    research_question = research_question
+                  ))

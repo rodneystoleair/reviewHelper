@@ -1,0 +1,32 @@
+---
+title: 'Relevance assessment'
+output: html_document
+date: '`r Sys.Date()`'
+author: 'Model: `r model`, question: `r research_question`'
+params:
+  score: NULL
+  relevance: NULL
+  model: NULL
+  research_question: NULL
+---
+
+## Score
+
+```{r echo=FALSE, paged.print=TRUE}
+knitr::kable(params$score)
+```
+
+## Results
+
+```{r echo=FALSE, results='asis'}
+titles = params$relevance$title
+relevance = params$relevance$relevance
+
+for (i in 1:length(titles)){
+  cat('\n\n### Article ', i, ': ', titles[i], '\n')
+  cat('\n\n **Authors:', params$score$authors[i], '** \n')
+  cat('\n **Score: ', params$score$scores[i], ' points **', sep = '')
+  cat('\n\n', relevance[i], sep = '')
+}
+```
+

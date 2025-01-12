@@ -1,0 +1,9 @@
+Your task is to find an answer in a given paper for a specific research question. Instructions:
+1. Carefully review the paper's full text.
+2. Find answers for the research question in a text.
+3. Determine in which paper section you found the answer.
+4. Explain how this paper adresses the question.
+
+Research question: {research_question}
+Title: {title}
+Full text: {fulltext}
